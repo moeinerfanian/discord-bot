@@ -2,11 +2,6 @@
 	<br />
 	<p>
 		<a href="https://discordpy.readthedocs.io/"><img src="https://user-images.githubusercontent.com/122752399/213015275-813b391e-c057-4a12-9f09-26f6104e37a7.png" width="546" alt="discord.py"/></a>
-	</p>
-	<br />
-	<p>
-		<a href="https://discord.gg/bNJpqeM42j"><img src="https://img.shields.io/discord/222078108977594368?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
-		<a href="https://github.com/discordjs/discord.js/actions"><img src="https://github.com/discordjs/discord.js/actions/workflows/test.yml/badge.svg" alt="Tests status" />
 </div>
 
 ## About
